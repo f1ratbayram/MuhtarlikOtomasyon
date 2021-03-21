@@ -1,0 +1,1 @@
+form ekranındaki pictureBox açılması için gerekli resim bulunmaktadır.
