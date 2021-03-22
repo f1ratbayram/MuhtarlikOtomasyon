@@ -9,6 +9,6 @@ giriş şifre :1524
 
 şifreyi unuttuma basınca istenen bilgilerden ;
 
-anne kızlık soyadı : BAYRAM
+anne kızlık soyadı :BAYRAK(Büyük Harf Kullanınız)
 
 tc kimlik :11111111111(11 tane 1)

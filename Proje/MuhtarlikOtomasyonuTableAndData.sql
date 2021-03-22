@@ -71,5 +71,5 @@ INSERT [dbo].[medeniKayitlari] ([tcKimlik], [Adi], [Soyadi], [medeniDurum], [coc
 GO
 INSERT [dbo].[medeniKayitlari] ([tcKimlik], [Adi], [Soyadi], [medeniDurum], [cocukSayisi]) VALUES (N'11111111111', N'Fırat', N'Bayram', N'Evli', N'3')
 GO
-INSERT [dbo].[password] ([tcKimlik], [anneKizlik], [sifre]) VALUES (N'11111111111', N'Bayram', N'1524')
+INSERT [dbo].[password] ([tcKimlik], [anneKizlik], [sifre]) VALUES (N'11111111111', N'BAYRAK', N'1524')
 GO
